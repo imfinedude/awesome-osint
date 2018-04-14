@@ -85,6 +85,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Mind Mapping, Concept Mapping and Idea Generation Tools](#-mind-mapping-concept-mapping-and-idea-generation-tools)
  - [Social Network Analysis](#-social-network-analysis)
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
+ - [DNS](#-dns)
  - [Other Tools](#-other-tools)
  - [OSINT Videos](#-osint-videos)
 
@@ -107,13 +108,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Better Search](https://chrome.google.com/webstore/detail/better-search/ipicopkjbiphdmegamfkeieghhmcjema)
 * [Dothop](http://dothop.com)
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Excite](http://www.excite.com)
 * [Factbites](http://www.factbites.com)
 * [Gigablast](http://gigablast.com)
 * [Goodsearch](http://www.goodsearch.com)
 * [Google Search](http://www.google.com) - Most popular search engine.
-* [Info.com](http://www.info.com)
-* [Infospace](http://www.infospace.com)
 * [Instya](http://www.instya.com)
 * [Impersonal.me](http://www.impersonal.me)
 * [iSEEK Education](http://education.iseek.com/iseek/home.page)
@@ -152,9 +150,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [All-in-One](http://all-io.net)
 * [AllTheInternet](http://www.alltheinternet.com)
-* [Dogpile](http://www.dogpile.com)
 * [Etools](http://www.etools.ch)
-* [Excite](http://msxml.excite.com)
 * [FaganFinder](http://www.faganfinder.com/engines)
 * [Glearch](http://www.glearch.com)
 * [Goofram](http://www.goofram.com)
@@ -166,7 +162,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
 * [Trovando](http://www.trovando.it)
-* [WebCrawler](http://www.webcrawler.com)
 * [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
@@ -444,6 +439,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [Social Stats](http://socialstats.ru)
 * [Spotlight](http://spotlight.svezet.ru)
+* [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
 * [Target Hunter](https://targethunter.net)
 * [Target Log](http://targetolog.com)
 * [VK5](http://vk5.city4me.com)
@@ -2245,6 +2241,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [VeraCrypt](https://veracrypt.codeplex.com)
 * [Viivo](https://viivo.com)
 * [ZMail](http://zmail.sourceforge.net)
+
+## [↑](#contents) DNS
+* [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 
 ## [↑](#contents) Other Tools
 
